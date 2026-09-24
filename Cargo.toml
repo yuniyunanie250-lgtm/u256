@@ -1,0 +1,11 @@
+[package]
+name = "u256"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal 256-bit unsigned integer with checked arithmetic"
+license = "MIT"
+repository = "https://github.com/yuniyunanie250-lgtm/u256"
+keywords = ["ethereum", "evm", "u256"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
